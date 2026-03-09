@@ -81,3 +81,6 @@ Rješavanje kviza
 - Korisnik odabire odgovor i klikne Sljedeće pitanje
 - Nakon zadnjeg pitanja, korisnik klikne Završi kviz
 - Sustav izračunava rezultat i prikazuje stranicu s rezultatima: Broj točnih odgovora, ukupni broj bodova, postotak uspješnosti, poruka (npr. "Odličan rezultat!")
+
+- <img width="1440" height="940" alt="image" src="https://github.com/user-attachments/assets/dc802c05-da3d-449c-86d1-fc0a15f34df9" />
+
