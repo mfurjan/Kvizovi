@@ -52,14 +52,14 @@ Svaki kviz sastoji se od: naslova, opisa, jednog ili više pitanja, ponuđenih o
 Dodatne funkcije:
 | Funkcionalnost | Opis | Status |
 | --- | --- | --- |
-| Pregled povijesti rezultata | Korisnik može pregledati sve prethodne rezultate | ⬜ Planirano |
-| Statistika po korisniku | Prikaz prosječnog rezultata i broja riješenih kvizova | ⬜ Planirano |
-| Uređivanje kviza | Admin može naknadno mijenjati kviz i pitanja | ⬜ Planirano |
-| Brisanje kviza | Admin može obrisati kviz | ⬜ Planirano |
-| Bodovna vrijednost po pitanju | Svako pitanje može imati različitu težinu | ⬜ Planirano |
-| Poruka o rezultatu | Personalizirana poruka ovisno o ostvarenom postotku | ⬜ Planirano |
-| Pretraživanje kvizova | Korisnik može pretraživati kvizove po nazivu ili temi | ⬜ Planirano |
-| Kategorije kvizova | Kvizovi se mogu svrstati u kategorije | ⬜ Planirano |
+| Pregled povijesti rezultata | Korisnik može pregledati sve prethodne rezultate | Planirano |
+| Statistika po korisniku | Prikaz prosječnog rezultata i broja riješenih kvizova | Planirano |
+| Uređivanje kviza | Admin može naknadno mijenjati kviz i pitanja | Planirano |
+| Brisanje kviza | Admin može obrisati kviz | Planirano |
+| Bodovna vrijednost po pitanju | Svako pitanje može imati različitu težinu | Planirano |
+| Poruka o rezultatu | Personalizirana poruka ovisno o ostvarenom postotku | Planirano |
+| Pretraživanje kvizova | Korisnik može pretraživati kvizove po nazivu ili temi | Planirano |
+| Kategorije kvizova | Kvizovi se mogu svrstati u kategorije | Planirano |
 
 
 Korisnički tijekovi
